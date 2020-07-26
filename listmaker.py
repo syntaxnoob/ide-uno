@@ -1,3 +1,4 @@
+#!/bin/python3.8
 import json
 
 # Geel Groen Rood Blauw
@@ -6,11 +7,12 @@ cards = {}
 ram = 0
 currentcolor = 0
 
+deletelist = []
 
 colorlist = ['Geel', 'Groen', 'Rood', 'Blauw']
 boostlist = ['plus2', 'ronddraaien', 'beurtoverslaan']
 
-for i in range(0, (108), 2):
+for i in range(-4, (108-3), 2):
 
     cards[i] = {}
     cards[i+1] = {}
@@ -47,4 +49,7 @@ for i in range(0, (108), 2):
             currentcolor = 0
         else:
             print('groot probleem')
-print(cards)
+# print(cards)
+print(json.dumps(cards))
+
+# cleanup
