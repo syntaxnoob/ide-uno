@@ -3,7 +3,6 @@ import json
 # Geel Groen Rood Blauw
 
 cards = {}
-testnumber = 0
 ram = 0
 currentcolor = 0
 
@@ -49,13 +48,3 @@ for i in range(0, (108), 2):
         else:
             print('groot probleem')
 print(cards)
-
-for test in cards:
-    try:
-        if (cards[test]['cardcolor'] == 'Blauw' and cards[test]['cardnr'] < 10):
-            testnumber = testnumber + 1
-            print(cards[test])
-    except KeyError as e:
-        print(e)
-
-print(testnumber)
