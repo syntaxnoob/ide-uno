@@ -1,0 +1,412 @@
+{
+  "0": {
+    "cardnr": 0,
+    "cardcolor": "Geel"
+  },
+  "1": {
+    "cardnr": 0,
+    "cardcolor": "Groen"
+  },
+  "2": {
+    "cardnr": 0,
+    "cardcolor": "Rood"
+  },
+  "3": {
+    "cardnr": 0,
+    "cardcolor": "Blauw"
+  },
+  "4": {
+    "cardnr": 1,
+    "cardcolor": "Geel"
+  },
+  "5": {
+    "cardnr": 1,
+    "cardcolor": "Geel"
+  },
+  "6": {
+    "cardnr": 1,
+    "cardcolor": "Groen"
+  },
+  "7": {
+    "cardnr": 1,
+    "cardcolor": "Groen"
+  },
+  "8": {
+    "cardnr": 1,
+    "cardcolor": "Rood"
+  },
+  "9": {
+    "cardnr": 1,
+    "cardcolor": "Rood"
+  },
+  "10": {
+    "cardnr": 1,
+    "cardcolor": "Blauw"
+  },
+  "11": {
+    "cardnr": 1,
+    "cardcolor": "Blauw"
+  },
+  "12": {
+    "cardnr": 2,
+    "cardcolor": "Geel"
+  },
+  "13": {
+    "cardnr": 2,
+    "cardcolor": "Geel"
+  },
+  "14": {
+    "cardnr": 2,
+    "cardcolor": "Groen"
+  },
+  "15": {
+    "cardnr": 2,
+    "cardcolor": "Groen"
+  },
+  "16": {
+    "cardnr": 2,
+    "cardcolor": "Rood"
+  },
+  "17": {
+    "cardnr": 2,
+    "cardcolor": "Rood"
+  },
+  "18": {
+    "cardnr": 2,
+    "cardcolor": "Blauw"
+  },
+  "19": {
+    "cardnr": 2,
+    "cardcolor": "Blauw"
+  },
+  "20": {
+    "cardnr": 3,
+    "cardcolor": "Geel"
+  },
+  "21": {
+    "cardnr": 3,
+    "cardcolor": "Geel"
+  },
+  "22": {
+    "cardnr": 3,
+    "cardcolor": "Groen"
+  },
+  "23": {
+    "cardnr": 3,
+    "cardcolor": "Groen"
+  },
+  "24": {
+    "cardnr": 3,
+    "cardcolor": "Rood"
+  },
+  "25": {
+    "cardnr": 3,
+    "cardcolor": "Rood"
+  },
+  "26": {
+    "cardnr": 3,
+    "cardcolor": "Blauw"
+  },
+  "27": {
+    "cardnr": 3,
+    "cardcolor": "Blauw"
+  },
+  "28": {
+    "cardnr": 4,
+    "cardcolor": "Geel"
+  },
+  "29": {
+    "cardnr": 4,
+    "cardcolor": "Geel"
+  },
+  "30": {
+    "cardnr": 4,
+    "cardcolor": "Groen"
+  },
+  "31": {
+    "cardnr": 4,
+    "cardcolor": "Groen"
+  },
+  "32": {
+    "cardnr": 4,
+    "cardcolor": "Rood"
+  },
+  "33": {
+    "cardnr": 4,
+    "cardcolor": "Rood"
+  },
+  "34": {
+    "cardnr": 4,
+    "cardcolor": "Blauw"
+  },
+  "35": {
+    "cardnr": 4,
+    "cardcolor": "Blauw"
+  },
+  "36": {
+    "cardnr": 5,
+    "cardcolor": "Geel"
+  },
+  "37": {
+    "cardnr": 5,
+    "cardcolor": "Geel"
+  },
+  "38": {
+    "cardnr": 5,
+    "cardcolor": "Groen"
+  },
+  "39": {
+    "cardnr": 5,
+    "cardcolor": "Groen"
+  },
+  "40": {
+    "cardnr": 5,
+    "cardcolor": "Rood"
+  },
+  "41": {
+    "cardnr": 5,
+    "cardcolor": "Rood"
+  },
+  "42": {
+    "cardnr": 5,
+    "cardcolor": "Blauw"
+  },
+  "43": {
+    "cardnr": 5,
+    "cardcolor": "Blauw"
+  },
+  "44": {
+    "cardnr": 6,
+    "cardcolor": "Geel"
+  },
+  "45": {
+    "cardnr": 6,
+    "cardcolor": "Geel"
+  },
+  "46": {
+    "cardnr": 6,
+    "cardcolor": "Groen"
+  },
+  "47": {
+    "cardnr": 6,
+    "cardcolor": "Groen"
+  },
+  "48": {
+    "cardnr": 6,
+    "cardcolor": "Rood"
+  },
+  "49": {
+    "cardnr": 6,
+    "cardcolor": "Rood"
+  },
+  "50": {
+    "cardnr": 6,
+    "cardcolor": "Blauw"
+  },
+  "51": {
+    "cardnr": 6,
+    "cardcolor": "Blauw"
+  },
+  "52": {
+    "cardnr": 7,
+    "cardcolor": "Geel"
+  },
+  "53": {
+    "cardnr": 7,
+    "cardcolor": "Geel"
+  },
+  "54": {
+    "cardnr": 7,
+    "cardcolor": "Groen"
+  },
+  "55": {
+    "cardnr": 7,
+    "cardcolor": "Groen"
+  },
+  "56": {
+    "cardnr": 7,
+    "cardcolor": "Rood"
+  },
+  "57": {
+    "cardnr": 7,
+    "cardcolor": "Rood"
+  },
+  "58": {
+    "cardnr": 7,
+    "cardcolor": "Blauw"
+  },
+  "59": {
+    "cardnr": 7,
+    "cardcolor": "Blauw"
+  },
+  "60": {
+    "cardnr": 8,
+    "cardcolor": "Geel"
+  },
+  "61": {
+    "cardnr": 8,
+    "cardcolor": "Geel"
+  },
+  "62": {
+    "cardnr": 8,
+    "cardcolor": "Groen"
+  },
+  "63": {
+    "cardnr": 8,
+    "cardcolor": "Groen"
+  },
+  "64": {
+    "cardnr": 8,
+    "cardcolor": "Rood"
+  },
+  "65": {
+    "cardnr": 8,
+    "cardcolor": "Rood"
+  },
+  "66": {
+    "cardnr": 8,
+    "cardcolor": "Blauw"
+  },
+  "67": {
+    "cardnr": 8,
+    "cardcolor": "Blauw"
+  },
+  "68": {
+    "cardnr": 9,
+    "cardcolor": "Geel"
+  },
+  "69": {
+    "cardnr": 9,
+    "cardcolor": "Geel"
+  },
+  "70": {
+    "cardnr": 9,
+    "cardcolor": "Groen"
+  },
+  "71": {
+    "cardnr": 9,
+    "cardcolor": "Groen"
+  },
+  "72": {
+    "cardnr": 9,
+    "cardcolor": "Rood"
+  },
+  "73": {
+    "cardnr": 9,
+    "cardcolor": "Rood"
+  },
+  "74": {
+    "cardnr": 9,
+    "cardcolor": "Blauw"
+  },
+  "75": {
+    "cardnr": 9,
+    "cardcolor": "Blauw"
+  },
+  "76": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Geel"
+  },
+  "77": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Geel"
+  },
+  "78": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Groen"
+  },
+  "79": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Groen"
+  },
+  "80": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Rood"
+  },
+  "81": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Rood"
+  },
+  "82": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Blauw"
+  },
+  "83": {
+    "cardnr": 10,
+    "cardboost": "plus2",
+    "cardcolor": "Blauw"
+  },
+  "84": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Geel"
+  },
+  "85": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Geel"
+  },
+  "86": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Groen"
+  },
+  "87": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Groen"
+  },
+  "88": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Rood"
+  },
+  "89": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Rood"
+  },
+  "90": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Blauw"
+  },
+  "91": {
+    "cardnr": 11,
+    "cardboost": "ronddraaien",
+    "cardcolor": "Blauw"
+  },
+  "92": {
+    "cardboost": "kleur"
+  },
+  "93": {
+    "cardboost": "kleur"
+  },
+  "94": {
+    "cardboost": "kleur"
+  },
+  "95": {
+    "cardboost": "kleur"
+  },
+  "96": {
+    "cardboost": "4+kleur"
+  },
+  "97": {
+    "cardboost": "4+kleur"
+  },
+  "98": {
+    "cardboost": "4+kleur"
+  },
+  "99": {
+    "cardboost": "4+kleur"
+  },
+  "100": {},
+  "101": {}
+}

@@ -50,6 +50,8 @@ for i in range(-4, (108-3), 2):
         else:
             print('groot probleem')
 # print(cards)
-print(json.dumps(cards))
+exporter = open('info.json', 'w')
+
+json.dump(cards, exporter)
 
 # cleanup
