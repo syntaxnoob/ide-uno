@@ -1,16 +1,26 @@
 #!/bin/python3.8
 import json
 import random
-
-cardlist = {}
-ram1 = {}
-ram2 = {}
-
+# from operator import itemgetter
+cardlist = []
 
 nice = open('info.json')
 cardlist = json.load(nice)
+scrambled = {}
 
 
-def scramble():
-    for i in range(50):
-        for j in cardlist:
+def scramble(cardlist):
+    ramdomlist = {}
+    for j in cardlist:
+        # ramdomlist[j] = {}
+        ramdomlist[j] = random.random()
+    ramdomsortedlist = sorted(ramdomlist.items(), key=lambda kv: kv[1])
+
+    for k in range(len(cardlist)):
+        print(k)
+        # print(ramdomsortedlist[k])
+        scrambled[k] = cardlist[ramdomsortedlist[k][0]]
+    print(scrambled)
+
+
+scramble(cardlist)
