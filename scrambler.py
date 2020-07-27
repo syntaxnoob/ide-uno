@@ -17,8 +17,6 @@ def scramble(cardlist):
     ramdomsortedlist = sorted(ramdomlist.items(), key=lambda kv: kv[1])
 
     for k in range(len(cardlist)):
-        print(k)
-        # print(ramdomsortedlist[k])
         scrambled[k] = cardlist[ramdomsortedlist[k][0]]
     print(scrambled)
 
